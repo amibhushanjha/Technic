@@ -1,4 +1,17 @@
 OSI model - https://www.studytonight.com/computer-networks/complete-osi-model
+
+There are n numbers of users who use computer network and are located over the world. So to ensure, national and worldwide data communication, systems must be developed which are compatible to communicate with each other ISO has developed a standard. ISO stands for International organization of Standardization. This is called a model for Open System Interconnection (OSI) and is commonly known as OSI model.
+The ISO-OSI model is a seven layer architecture. It defines seven layers or levels in a complete communication system. They are:
+
+Application Layer
+Presentation Layer
+Session Layer
+Transport Layer
+Network Layer
+Datalink Layer
+Physical Layer
+
+
 IP Address and Subnetting - https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html#anc0
 
 Switch
